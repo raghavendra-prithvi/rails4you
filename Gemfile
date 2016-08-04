@@ -11,8 +11,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'mail_form'
 gem 'figaro'
 gem 'thin'
-gem 'airbrake'
+# gem 'airbrake'
 
 group :development do
- 
+ gem 'sqlite3'
 end
