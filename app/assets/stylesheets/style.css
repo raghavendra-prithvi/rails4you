@@ -21,6 +21,12 @@
     background-size:      auto,              100% 100%;
   }
 
+.blue{
+  color:blue !important;
+  background: light-yellow !important; 
+ 
+}
+
     body.is-loading *
     {
       -moz-transition: none !important;
@@ -52,6 +58,8 @@
   {
     font-weight: 400;
     color: #363636;
+/*     color: blue;
+    background-color:lightyellow; */
   }
 
   blockquote
